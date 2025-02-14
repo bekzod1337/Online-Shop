@@ -1,0 +1,6 @@
+export { default as Img1 } from "./1.jpeg"
+export { default as Img2 } from "./2.jpeg"
+export { default as Img3 } from "./3.jpg"
+export { default as Img4 } from "./4.jpg"
+export { default as Img5 } from "./5.jpg"
+export { default as Img6 } from "./6.jpg"
